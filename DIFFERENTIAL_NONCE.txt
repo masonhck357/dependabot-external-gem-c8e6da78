@@ -1,0 +1,2 @@
+This inert file creates a new git revision so the package-scope probe is evaluated after the owned control PR is merged.
+It contains no executable code and does not change the gemspec or package request.
